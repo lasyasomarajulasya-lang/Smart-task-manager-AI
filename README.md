@@ -16,6 +16,11 @@ An intelligent task manager that automatically detects task priority using AI ke
 - **AI Logic**: Keyword-based priority detection
 
 ## 🚀 How to Run Locally
+## 📸 Screenshots
+
+| Home Page | AI Detects High Priority | Medium Priority |
+| --- | --- | --- |
+| ![Empty](Screenshot%202026-05-10%20153256.png) | ![High Priority](Screenshot%202026-05-10%20153355.png) | ![Medium Priority](Screenshot%202026-05-10%20153735.png) |
 
 1. **Clone the repo**
    ```bash
